@@ -1,7 +1,7 @@
 # Site settings
 title: Grad Student
 description: "Dedicated and collaborative professional with exemplary customer service skills and over a decade of experience in the fields of healthcare, academia, and entertainment media. Social science scholar fascinated by: the power of  vocal performance in the video game medium, surveillance studies, and the materiality of digital space. Trophy-hunting gamer, open world completionist, and  voice actor with a love for all things international."
-skills: "Scholar. Voice actor. Gamer. Nerd."
+skills: "Scholar.   Voice actor.   Gamer.   Nerd.  "
 meta_author: Janine Bower
 
 # Google webmaster tools
@@ -36,17 +36,9 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+  - title: LinkedIn
+    url: 
+ 
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
