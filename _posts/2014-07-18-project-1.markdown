@@ -2,5 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw
+description: <p> <a href= "https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Resume PDF Download Link </p>
 ---
