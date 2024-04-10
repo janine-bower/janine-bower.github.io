@@ -2,66 +2,7 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description:Janine Anne Bower, M.S.
-West Deptford, NJ, USA
-856.381.6403
-janine.anne.bower@gmail.com
-bowerj6@rpi.edu
-<a href= "https://hass.rpi.edu/cgds_studentprofiles "> School Profile </p>
-<a href= "https://www.linkedin.com/in/janine-bower-m-s-1804719a/"> LinkedIn </p>
-<br>
-Professional Summary -
-Trophy-hunting gamer, open world completionist, and engaging voice actor with a love for all things international. Social science scholar fascinated by: the power of vocal performance in the video game medium, surveillance, and the materiality of digital space. Dedicated and collaborative professional with exemplary customer service skills and over a decade of experience in the fields of healthcare, academia, and entertainment media.
-<br>
-Key Skills - 
-(Basic) Game Design, Sound and Video Editing, IT Troubleshooting
-(Advanced) Public Speaking and Professional Voice Acting, Project Management, Team Leadership, Employee Onboarding, Microsoft Office Suite, Office 365, G Suite, Social Science Research, Academic Conference Presentations, Database Management, Newsletter Development, Social Media, Promotional Material Design
-<br>
-Languages - 
-English (Fluent) │ Spanish (Fluent) │ Mandarin Chinese (Conversational)
-<br>
-Education -
-Bachelor of Arts - Spanish and Mandarin Chinese Double Major
-Rutgers, The State University of New Jersey, New Brunswick, NJ, USA
-<br>
-Master of Science - Science, Technology & Society
-Drexel University, Philadelphia, PA, USA
-<br>
-Doctor of Philosophy - Critical Game Design (In Progress)
-Rensselaer Polytechnic Institute, Troy, NY, USA
-<br>
-Professional Experience - 
-Voice Actor / Transcript Editor
-Bloody Disgusting, LLC │ Remote │ September 2021 - Present
-<br>
-Writing Center Tutor 
-Center for Global Communication + Design (COMM+D) │Troy, NY, USA │January 2024 - Present
-<br>
-Undergraduate Teaching Assistant for Dr. Ralph Noble
-AI in the Information Age / Motivation and Performance Courses │Troy, NY, USA │ August 2023 - December 2023
-<br>
-Access Coordinator - Global Patient Services
-Children’s Hospital of Philadelphia (CHOP) │ Philadelphia, PA, USA │ November 2018 - July 2022
-<br>
-Greater Philadelphia Coronavirus HelpLine - Contact Tracing Center
-Children’s Hospital of Philadelphia (CHOP) │ Philadelphia, PA, USA │ July 2020 - February 2021
-<br>
-Program Assistant - Department of Communication
-Drexel University │ Philadelphia, PA, USA │ January 2015 - October 2018
-<br>
-Adjunct Chinese Instructor - Modern Languages Program
-Drexel University │ Philadelphia, PA, USA │ September 2014 - September 2016
-<br>
-Program Assistant - Modern Languages Program
-Drexel University │ Philadelphia, PA, USA │ November 2013 - June 2014
-<br>
-Airport Coordinator / Assistant to the Regional Travel & Logistics Coordinator
-AFS-USA │ New York City, NY, USA │ Summer 2013
-<br>
-Freelance Journalist / Blog Writer
-Viacom - MTV Korea │ New York City, NY, USA │ March 2012 - January 2013
-<br>
-Actor / Writer - Student Health Advocates Developing Educational Scenarios (SHADES) Theater
-Rutgers University Health Services │ New Brunswick, NJ, USA │ September 2008 - June 2012
-<br> 
+description: this is an example of my resume
+I really want this to work
+what in the actual FUUUUUUUUUUUU
 ---
