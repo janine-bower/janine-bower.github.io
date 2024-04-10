@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: Janine Anne Bower, M.S.
+description:Janine Anne Bower, M.S.
 West Deptford, NJ, USA
 856.381.6403
 janine.anne.bower@gmail.com
