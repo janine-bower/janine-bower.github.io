@@ -2,7 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: blerg
-and 
-blerg
+description: Janine Anne Bower, M.S.<br>West Deptford, NJ, USA<br>856.381.6403<br>janine.anne.bower@gmail.com<br>bowerj6@rpi.edu<br><a href= "https://hass.rpi.edu/cgds_studentprofiles "> School Profile </p><br><a href= "https://www.linkedin.com/in/janine-bower-m-s-1804719a/"> LinkedIn </p><br>
 ---
