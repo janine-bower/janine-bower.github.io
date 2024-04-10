@@ -2,7 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: this is an example of my resume
-I really want this to work
-what in the actual FUUUUUUUUUUUU
+description: blerg
 ---
