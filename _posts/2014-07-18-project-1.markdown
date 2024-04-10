@@ -1,7 +1,10 @@
 ---
 layout: default
+<br>
 modal-id: 1
-img:cabin.png
+<br>
+img: cabin.png
+<br>
 description:<p> <a href= "https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume </p>
 <br>
 Janine Anne Bower, M.S.
