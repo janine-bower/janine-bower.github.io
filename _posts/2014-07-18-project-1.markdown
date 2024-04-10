@@ -1,7 +1,7 @@
 ---
 layout: default
 
-img: cake.png
+img: cabin.png
 alt: image-alt
 description: blerg
 ---
