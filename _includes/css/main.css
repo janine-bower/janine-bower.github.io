@@ -86,7 +86,7 @@ header {
 
 header .container {
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
 }
 
 header img {
@@ -109,7 +109,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 50px;
+        padding-top: 10px;
         padding-bottom: 50px;
     }
 
