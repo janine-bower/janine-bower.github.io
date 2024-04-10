@@ -1,7 +1,7 @@
 ---
 layout: default
 
-img: cabin.png
+img: cabin.png 
 alt: image-alt
 description: Janine Anne Bower, M.S.
 
