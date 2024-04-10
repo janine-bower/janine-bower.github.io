@@ -1,6 +1,5 @@
 ---
 layout: default
-
 img: cabin.png 
 alt: image-alt
 description: 
