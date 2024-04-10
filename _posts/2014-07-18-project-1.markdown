@@ -1,5 +1,7 @@
 ---
 layout: default
-modal-id: 1
+
+img: cake.png
+alt: image-alt
 description: blerg
 ---
