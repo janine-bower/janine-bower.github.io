@@ -2,5 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF)</a><a href= "hellow world I want to write a bunch of stuff wouldn't it be great if we could???</a></p>
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF)</a><a href= "hello world I want to write a bunch of stuff wouldn't it be great if we could???"</a></p>
 ---
