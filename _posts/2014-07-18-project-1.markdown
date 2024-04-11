@@ -2,5 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: <p> <a href= "https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF) </a>  </p> Professional Summary: Trophy-hunting gamer, open world completionist, and engaging voice actor with a love for all things international. Social science scholar fascinated by: the power of vocal performance in the video game medium, surveillance, and the materiality of digital space. Dedicated and collaborative professional with exemplary customer service skills and over a decade of experience in the fields of healthcare, academia, and entertainment media.
+description: <p> <a href= "https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF) </a>  </p> Professional Summary - Trophy-hunting gamer, open world completionist, and engaging voice actor with a love for all things international. Social science scholar fascinated by: the power of vocal performance in the video game medium, surveillance, and the materiality of digital space. Dedicated and collaborative professional with exemplary customer service skills and over a decade of experience in the fields of healthcare, academia, and entertainment media.
 ---
