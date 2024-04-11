@@ -2,5 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF)</a><a href= "hello world I want to write a bunch of stuff wouldn't it be great if we could???"</a></p>
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Echqe1Y5CbJArXlAMGQkZywB5SCI71z8TX57iwtMhbZdGw"> Link to Full Resume (PDF)</a></p><br><a href= "hello world I want to write a bunch of stuff wouldn't it be great if we could??? I'm like really trying here, I'm so confused as to what is happening and why I'm not able to pass this stuff down in the way that I need to...."</a>
 ---
