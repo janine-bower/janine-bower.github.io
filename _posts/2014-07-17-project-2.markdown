@@ -2,5 +2,5 @@
 layout: default
 modal-id: 2
 img: cake.png
-description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/EczoYS77dXFLn5K3cfYw0GABTL4Bn0Bq1ZGlfyd6zM7J0A"> <br>Link to Academic Research Resume (PDF)</a></p><br><br><strong>Research Highlights</strong><br><br>Recent acceptance to the RoboPhilosophy Conference 2024 in Copenhagen, Denmark -<br><em>PanOp Industries</em> Art Piece Submission -<br><iframe width="560" height="315" src="https://www.youtube.com/embed/i4NaOy46XXo?si=7up9KGU0HasCbS2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/EczoYS77dXFLn5K3cfYw0GABTL4Bn0Bq1ZGlfyd6zM7J0A"> <br>Link to Academic Research Resume (PDF)</a></p><br><br><strong>Research Highlights</strong><br><br> blah blah blah
 ---
