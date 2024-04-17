@@ -2,5 +2,5 @@
 layout: default
 modal-id: 2
 img: cake.png
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/EczoYS77dXFLn5K3cfYw0GABTL4Bn0Bq1ZGlfyd6zM7J0A"> <br>Link to Academic Research Resume (PDF)</a></p><br><br><strong>Research Highlights</strong><br><br>blah blah blah
 ---
