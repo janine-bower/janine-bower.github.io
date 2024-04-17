@@ -2,5 +2,5 @@
 layout: default
 modal-id: 4
 img: game.png
-description: <a href="https://soundcloud.com/user-754620254" title="jbower16" target="_blank" style="color: #cccccc; text-decoration: none;">jbower16</a>·<a href="https://soundcloud.com/user-754620254/original-poetry-sailors-delight-by-janine-bower" title="Original Poetry - Sailors Delight by Janine Bower (feat. Maeve)" target="_blank" style="color: #cccccc; text-decoration: none;">Original Poetry - Sailors Delight by Janine Bower (feat. Maeve)</a></div>
+description: 
 ---
