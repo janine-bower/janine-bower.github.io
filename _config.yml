@@ -24,6 +24,7 @@ disqus_shortname: myshortname
 color:
   primary: EBB6C2 #14493d
   primary-rgb: "235,182,194" #"235,182,194"
+  primary-link: "0, 102, 204" #0000EE
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
