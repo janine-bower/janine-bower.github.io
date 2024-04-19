@@ -66,11 +66,11 @@ h6 {
 }
 
 
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.color.secondary }};
 }
 
 
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
