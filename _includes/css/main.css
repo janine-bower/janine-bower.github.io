@@ -62,7 +62,7 @@ h6 {
 
 
     color: #fff;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.primary }};
 }
 
 
