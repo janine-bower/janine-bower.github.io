@@ -62,11 +62,11 @@ h6 {
 
 
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 
-    border-color: #{{ site.color.secondary-dark }};
+    border-color: #{{ site.color.primary }};
 }
 
 
