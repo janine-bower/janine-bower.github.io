@@ -66,11 +66,11 @@ h6 {
 }
 
 
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -292,7 +292,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background: #fff;
 }
 
@@ -345,7 +345,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary-link }};
+    color: #{{ site.color.primary }};
 }
 
 form .row:first-child .floating-label-form-group {
@@ -362,7 +362,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
@@ -371,7 +371,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 50px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-social {
@@ -455,7 +455,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -465,14 +465,14 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.primary }} !important;
 }
 
 /* Fix modal mouse wheel issues */
