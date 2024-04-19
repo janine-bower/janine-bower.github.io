@@ -70,7 +70,7 @@ h6 {
 }
 
 
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background-color: #fff;
 }
 
@@ -180,7 +180,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.secondary-dark }};
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
