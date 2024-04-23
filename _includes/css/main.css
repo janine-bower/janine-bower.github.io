@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 h1,
@@ -62,15 +62,15 @@ h6 {
 
 
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -81,7 +81,7 @@ h6 {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 header .container {
@@ -180,7 +180,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 @media(max-width:767px) {
@@ -210,7 +210,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.secondary }},.9);
+    background: rgba({{ site.color.primary }},.9);
 <h2> "Testing" </h2>
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
@@ -345,7 +345,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 form .row:first-child .floating-label-form-group {
@@ -362,7 +362,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 footer .footer-col {
@@ -371,7 +371,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 50px 0;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-social {
