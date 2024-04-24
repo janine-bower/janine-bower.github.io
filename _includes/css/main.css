@@ -62,15 +62,15 @@ h6 {
 
 
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 
-    border-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.primary }};
 }
 
 
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
     background-color: #fff;
 }
 
@@ -81,7 +81,7 @@ h6 {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
 }
 
 header .container {
