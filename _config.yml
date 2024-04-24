@@ -26,7 +26,6 @@ color:
   primary-rgb: (56, 139, 164)  #(56, 139, 164)
   secondary: 010305  #010305
 
-
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
