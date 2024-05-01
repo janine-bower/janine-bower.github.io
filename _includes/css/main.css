@@ -211,14 +211,13 @@ section.success {
     height: 100%;
     opacity: 0;
     background: rgba({{ site.color.primary }},.9);
-<h2> "Testing" </h2>
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    opacity: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -341,7 +340,7 @@ section.success {
 
 .floating-label-form-group-with-value label {
     top: 0;
-    opacity: 1;
+    opacity: 0;
 }
 
 .floating-label-form-group-with-focus label {
@@ -447,7 +446,7 @@ footer .footer-below {
 }
 
 .portfolio-modal .close-modal:hover {
-    opacity: .3;
+    opacity: 0;
 }
 
 .portfolio-modal .close-modal .lr {
