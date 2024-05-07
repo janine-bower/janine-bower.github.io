@@ -326,7 +326,7 @@ section.success {
     line-height: 1.764705882em;
     vertical-align: middle;
     vertical-align: baseline;
-    opacity: .3;
+    opacity: 0;
     -webkit-transition: top .3s ease,opacity .3s ease;
     -moz-transition: top .3s ease,opacity .3s ease;
     -ms-transition: top .3s ease,opacity .3s ease;
