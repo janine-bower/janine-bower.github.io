@@ -2,5 +2,5 @@
 layout: default
 modal-id: 4
 img: game.png
-description: sdfsdf
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/ESPzF__b4QtLr0mDmVQe_tcBiA99nQRs_ivwY9j3RdVUpg"><strong><font size="6"><font color="#0000ff">Link to Actor Resume (PDF)</font></a>
 ---
