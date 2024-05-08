@@ -2,5 +2,5 @@
 layout: default
 modal-id: 6
 img: submarine.png
-description: <font size="6">Playstation Network Username -<br><font color="#FFAEC9">NeenBean16</font><br><br><p><a href="https://psnprofiles.com/NeenBean16"><font color="#0000ff">Link to Player Stats<br>on PSNProfiles.com</font></a><br><br></font>
+description: <font size="6">Playstation Network Username -<br><font color="#FFAEC9">NeenBean16</font><br><br><p><a href="https://psnprofiles.com/NeenBean16"><font color="#0000ff">Link to Player Stats<br>on PSNProfiles.com</font></a><br><br></font>Favorite Platinum Achievements -<br>
 ---
