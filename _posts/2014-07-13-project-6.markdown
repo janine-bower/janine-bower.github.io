@@ -2,5 +2,5 @@
 layout: default
 modal-id: 6
 img: submarine.png
-description: <font size="6">Playstation Network Username -<br><font color="#FFAEC9">NeenBean16</font><br><br><p><a href="https://psnprofiles.com/NeenBean16"><font color="#0000ff">Link to Player Stats<br>on PSNProfiles.com</font></a><br><br></font><font size = "6">Favorite Platinum Achievements -</font><br><br><img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/Gamer%20shizz.jpg">
+description: <font size="6">Playstation Network Username -<br><font color="#FFAEC9">NeenBean16</font><br><br><p><a href="https://psnprofiles.com/NeenBean16"><font color="#0000ff">Link to Player Stats<br>on PSNProfiles.com</font></a><br><br></font><font size = "6">Favorite Platinum Achievements -</font><br><br><img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/Gamer%20shizz.jpg"><br>"Fastest" Platinums<br><img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/Fast%20plats.jpg"><br>Other Personal Faves<img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/Fast%20plats.jpg">
 ---
