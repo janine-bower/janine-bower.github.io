@@ -2,5 +2,5 @@
 layout: default
 modal-id: 4
 img: game.png
-description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/EfwkP_GmHXxOiJjoL9_FPPQBqrE8y_pDnygIcF_1xKxR3Q"><strong><font size="6"><font color="#0000ff">Link to Actor Resume (PDF)</font></a><br><br><p><a href="https://soundcloud.com/user-754620254/voice-acting-demo-reel-2024"><strong><font size="6"><font color="#0000ff">Link to Voice Acting Demo Reel</font></a><br><br><img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/portfolio/Actor_Collage_Redo.jpg">
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:w:/g/personal/bowerj6_rpi_edu/EZ7W4vgNuiVJkEptKctOfBYBnlmUTiuub8N-5rMVAb3qJw"><strong><font size="6"><font color="#0000ff">Link to Actor Resume (PDF)</font></a><br><br><p><a href="https://soundcloud.com/user-754620254/voice-acting-demo-reel-2024"><strong><font size="6"><font color="#0000ff">Link to Voice Acting Demo Reel</font></a><br><br><img src="https://raw.githubusercontent.com/janine-bower/janine-bower.github.io/master/img/portfolio/Actor_Collage_Redo.jpg">
 ---
