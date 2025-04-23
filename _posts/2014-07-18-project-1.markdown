@@ -2,5 +2,5 @@
 layout: default
 modal-id: 1
 img: cabin.png
-description: 
+description: <p><a href="https://rpiexchange-my.sharepoint.com/:b:/g/personal/bowerj6_rpi_edu/Ee5R8n2jJexMit-olYq10D8BAVjheHnZdopqpx-mtwigOA"><strong><font size="6"><font color="#0000ff">Link to Resume (PDF)</font></a></p>
 ---
